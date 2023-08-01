@@ -15,7 +15,8 @@
     "@mui/material": "^5.14.2",
     "next": "^12.3.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "selenium-webdriver": "^4.11.1"
   },
   "devDependencies": {
     "eslint": "8.46.0",
